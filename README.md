@@ -17,7 +17,13 @@ There is a description of the differences in ride-sharing data among the differe
 
 ![PyBer_summary_df](https://github.com/daniel-sh-au/UofT_DataBC_Module05_PyBer-Analysis/blob/main/analysis/PyBer_summary_df.PNG)
 
-From the PyBer summary dataframe (above), there were clear differences in the ride share data
+From the PyBer summary dataframe (above), there are clear differences in the rideshare data for each city type. Urban cities have the most rides, resulting in the highest number of drivers to meet demand. This is expected as urban cities generally have the highest population of the three city types. Rural cities have the lowest amount of rides and therefore have the least amount of drivers. This correlates to population as rural cities tend to have the lowest population of the three city types. Suburban cities have a population that is between rural and suburban and as expected, the total rides and drivers for this city type are in the middle. 
+
+The total fares by city type also provides a similar trend to the total rides and total drivers metrics. As displayed in the table, urban cities have the highest total fare and rural cities have the lowest total fare. Suburban cities, similar to the previous two metrics, have their total fare in between urban and rural. The total fares metric is a direct correlation to the total rides for each city type.
+
+When observing the average fare per ride, we can see an opposite trend to the total rides, drivers, and fares metric. Although urban cities have the highest number of total ride, this city type has the lowest average fare per ride. Additionally, rural cities have the lowest number of total rides but the highest average fare. Suburban cities are again in the middle, with their average fare per ride between urban and rural cities. This disparity can be explained by the distance the vehicle must travel in each city type. In urban cities, destinations, such as resturants, attractions, and/or necessities, are usually closer in distance than rural cities. Thus, riders in rural cities must pay a higher fare to travel further distances.
+
+supply low, price up
 
 ![PyBer_fare_summary](https://github.com/daniel-sh-au/UofT_DataBC_Module05_PyBer-Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
