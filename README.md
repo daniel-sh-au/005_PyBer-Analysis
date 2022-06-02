@@ -15,6 +15,12 @@ Using images from the summary DataFrame and multiple-line chart, describe the di
 
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
 
+![PyBer_summary_df](https://github.com/daniel-sh-au/UofT_DataBC_Module05_PyBer-Analysis/blob/main/analysis/PyBer_summary_df.PNG)
+
+From the PyBer summary dataframe (above), there were clear differences in the ride share data
+
+![PyBer_fare_summary](https://github.com/daniel-sh-au/UofT_DataBC_Module05_PyBer-Analysis/blob/main/analysis/PyBer_fare_summary.png)
+
 ## Summary
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
